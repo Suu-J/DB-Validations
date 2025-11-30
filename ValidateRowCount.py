@@ -1,3 +1,5 @@
+# validating row counts here
+
 import os
 
 os.environ["ORACLE_BASE"] = "/opt/oracle"

@@ -9,7 +9,6 @@ Scripts for validating data integrity between Oracle and Snowflake databases.
 - **ValidateOneTable.py** - Validates a single specified table
 - **ValidateRowCount.py** - Compares row counts between Oracle and Snowflake tables
 - **validate.py** - General validation script for table data
-- **validate_0416.py** - Version-dated validation script
 - **emptyShell.py** - Template/shell script for validation operations
 
 ### Testing & Development

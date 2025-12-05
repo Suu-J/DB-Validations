@@ -14,7 +14,7 @@ Scripts for validating data integrity between Oracle and Snowflake databases.
 ### Database Comparison
 - **countTables.py** - Counts and compares table counts in both databases
 - **firstFiveTables.py** - Displays first five tables from each database
-- **sameTables.py** - Checks if table names match between databases
+- **tableMatch.py** - Checks if table names match between databases
 - **checkOutlier.py** - Checks for table existence and outliers
 
 ## Usage
